@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zach</h1>
-<h3 align="center">An IT-enthusiast who is always curious to know more! I am currently in my second year of my Bachelor's degree in the field of computer science. I really enjoy learning full-stack development and frameworks to enhance my projects. During my free time, I like to build personal projects and if the weather allows, an adventurous hike in the mountains</h3>
+<h1 align="left">Hi 👋, I'm Zach</h1>
+<h3 align="left">An IT-enthusiast who is always curious to know more! I am currently in my second year of my Bachelor's degree in the field of computer science. I really enjoy learning full-stack development and frameworks to enhance my projects. During my free time, I like to build personal projects and if the weather allows, an adventurous hike in the mountains</h3>
 
 - 🌱 I’m currently learning **React and Node.js**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zach lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zach lee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zach lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zach lee" height="30" width="40" /></a><a href="mailto:leezhengyang22@gmail.com" target="blank"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="leezhengyang22@gmail.com" height="50" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
