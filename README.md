@@ -4,10 +4,12 @@
 <br>
 
 <!-- My goals -->
-## My goals <img src="./images/Rocket.png" width="35px">
+## Current activities <img src="./images/Rocket.png" width="35px">
 - 🔍 Researching and discovering new coding techniques to sharpen code quality
 
-- 🌱 Currently improving my skills in **vanilla JavaScript and Node.js**
+- 🌱 Improving my skills in **vanilla JavaScript and Node.js**
+
+- 📚 Learning the `MERN` stack!
   
 - 👨‍💻 Maintaining and adding new features to projects on my [GitHub repository](https://github.com/ZachLee12)
 
