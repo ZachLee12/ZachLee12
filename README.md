@@ -9,13 +9,13 @@
 
 <br>
 
-<img align="left" src="./images/Rocket.png" height="25px"> <div>&nbsp; My GitHub stats:</div>
+<img align="left" src="./images/Rocket.png" height="30px"><h3>My GitHub stats: </h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachlee12&show_icons=true&theme=vue-dark&hide=contribs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" src="./images/Telephone%20Receiver.png" height="25"/><h3 align="left">&nbsp;Connect with me:</h3>
+<img align="left" src="./images/Telephone%20Receiver.png" height="25"/><h3>Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zach lee" target="blank"><img align="center" src="./icons/linkedin-icon.svg" alt="zach lee" height="30" width="40" /></a><a href="mailto:leezhengyang22@gmail.com" target="blank"><img align="center" src="./icons/gmail.svg" alt="gmail" height="27" width="40" /></a>
+<a href="https://linkedin.com/in/zach lee" target="blank"><img align="center" src="./icons/linkedin-icon.svg" alt="zach lee" height="30" width="40" /></a><a href="mailto:leezhengyang22@gmail.com" target="blank"><img align="center" src="./icons/Gmail.svg" alt="gmail" height="27" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
