@@ -1,13 +1,15 @@
-<h1 align="left">Hi 👋, I'm Zach</h1>
-<h3 align="left">An IT-enthusiast who is always curious to know more! I am currently in my second year of my Bachelor's degree in the field of computer science. I really enjoy learning full-stack development and frameworks to enhance my projects. During my free time, I like to build personal projects and if the weather allows, an adventurous hike in the mountains</h3>
+<h1 align="left">Hi there, I'm Zach <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h3 align="left">An IT-enthusiast who is always curious to know more! Whilst doing my Bachelor's degree, I am self-learning full-stack development. I like to build projects with fresh ideas during my free time and on sunny Sundays, an adventurous hike in the mountains.</h3>
 
 - 🌱 I’m currently learning **React and Node.js**
 
-- 🤝 I’m looking for help with **full-stack development with the MERN stack.**
+- 🔍 I like to research and discover new coding techniques
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZachLee12](https://github.com/ZachLee12)
+- 👨‍💻 All of my projects are available on my [GitHub repositories](https://github.com/ZachLee12)
 
-- 📫 How to reach me **leezhengyang22@gmail.com**
+- 📊 My GitHub stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachlee12&show_icons=true&theme=vue-dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
