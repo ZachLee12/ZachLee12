@@ -11,7 +11,7 @@
 
 - 📚 Learning the `MERN` stack!
   
-- 👨‍💻 Maintaining and adding new features to projects on my [GitHub repository](https://github.com/ZachLee12)
+- 👨‍💻 Maintaining and adding new features to projects on my [GitHub repository](https://github.com/ZachLee12?tab=repositories)
 
 <br>
 
