@@ -22,7 +22,7 @@
 <!-- Connect with me -->
 ## Connect with me <img src="./images/Telephone%20Receiver.png" height="35px"/>
 <p align="left">
-<a href="[https://www.linkedin.com/in/zach-lee-01702921b](https://www.linkedin.com/in/zach-lee-01702921b/)" target="blank"><img align="center" src="./icons/linkedin-icon.svg" alt="zach lee" height="40" width="50" /></a><a href="mailto:leezhengyang22@gmail.com" target="blank"><img align="center" src="./icons/Gmail.svg" alt="gmail" height="37" width="45" /></a>
+<a href="https://www.linkedin.com/in/zach-lee-01702921b" target="blank"><img align="center" src="./icons/linkedin-icon.svg" alt="zach lee" height="40" width="50" /></a><a href="mailto:leezhengyang22@gmail.com" target="blank"><img align="center" src="./icons/Gmail.svg" alt="gmail" height="37" width="45" /></a>
 </p>
 
 <br>
