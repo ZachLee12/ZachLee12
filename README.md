@@ -2,14 +2,14 @@
 <h3 align="left">An IT-enthusiast who is always curious to know more!</h3>  
 <h3 align="left">Whilst doing my Bachelor's degree, I am self-learning full-stack development. I like to build projects with fresh ideas during my free time and on sunny Sundays, an adventurous hike in the mountains.</h3>
 
-Currently learning [Angular](https://angular.io/), [NestJS](https://nestjs.com/) and [Prisma](https://www.prisma.io/)
+Currently learning [Angular](https://angular.io/), [NestJS](https://nestjs.com/) and [FastAPI](https://fastapi.tiangolo.com/)
 <br>
 
 <!-- My goals -->
 ## Activities <img src="./images/Rocket.png" width="35px">
 - 🔍 Researching and discovering new coding techniques
 
-- 🌱 Improving my skills in **JavaScript and TypeScript**
+- 🌱 Improving my skills in **JavaScript, TypeScript and Python**
   
 - 👨‍💻 Maintaining and adding new features to projects on my [GitHub repository](https://github.com/ZachLee12?tab=repositories)
 
